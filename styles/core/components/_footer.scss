@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @layer components {
     #footer {
         .footer {
@@ -7,3 +8,14 @@
         }
     }
 }
+=======
+@layer components {
+    #footer {
+        .footer {
+            &--background {
+                @apply absolute left-0 top-0 right-0 bottom-0 z-[5] h-full bg-center bg-cover bg-no-repeat opacity-50;
+            }
+        }
+    }
+}
+>>>>>>> 4f286a490c31a472c67cf1490009d6b01016f100
