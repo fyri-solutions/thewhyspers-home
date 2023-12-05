@@ -1,17 +1,16 @@
-<<<<<<< HEAD
 <div align="center">
-  <img alt="NutriTrack logo" src="/public/nutritrack.svg" width="100" />
+  <img alt="Whysper logo" src="/public/whysper_logo_black.svg" width="100" />
 </div>
 
 <h1 align="center">
-  NutriTrack - Avenue Labs landing page template 🚀
+  Whysper - A new way to social media  🚀
 </h1>
 
-NutriTrack is a customizable NextJS and TailwindCSS landing page template that offers personalized styling and easy customization. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
+Whysper -> NEED TO CHANGE -> is a customizable NextJS and TailwindCSS landing page template that offers personalized styling and easy customization. Tailored to provide a minimal design, it allows you to effortlessly create a site that suits your requirements. You can easily make use of the components and customize the code to mix and match to suit your needs.
 
 <hr>
 
-![NutriTrack Mockup](/public/nutritrack.png)
+![Whysper Mockup](/public/nutritrack.png)
 
 ## Key Features:
 
@@ -182,4 +181,3 @@ If you have any suggestions/feedback, you can contact the creator, Christian Lun
 ---
 
 Made by [Christian Luntok - Avenue Labs](https://avenuelabs.co/)
->>>>>>> 4f286a490c31a472c67cf1490009d6b01016f100
